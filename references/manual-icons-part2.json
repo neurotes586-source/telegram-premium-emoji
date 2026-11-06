@@ -1,0 +1,373 @@
+[
+  {
+    "name": "Назад",
+    "emoji": "⬅️",
+    "custom_emoji_id": "5877536313623711363",
+    "pack": "TgAndroidIcons",
+    "category": "navigation"
+  },
+  {
+    "name": "Вперёд",
+    "emoji": "➡️",
+    "custom_emoji_id": "5877468380125990242",
+    "pack": "TgAndroidIcons",
+    "category": "navigation"
+  },
+  {
+    "name": "Вверх",
+    "emoji": "⬆️",
+    "custom_emoji_id": "6005807101056651268",
+    "pack": "TgAndroidIcons",
+    "category": "navigation"
+  },
+  {
+    "name": "Вниз",
+    "emoji": "⬇️",
+    "custom_emoji_id": "5886451926995833684",
+    "pack": "TgAndroidIcons",
+    "category": "navigation"
+  },
+  {
+    "name": "Поиск",
+    "emoji": "🔍",
+    "custom_emoji_id": "5258274739041883702",
+    "pack": "vector_icons_by_fStikBot",
+    "category": "general"
+  },
+  {
+    "name": "Звезда, рейтинг",
+    "emoji": "⭐️",
+    "custom_emoji_id": "5874948844935974490",
+    "pack": "TgAndroidIcons",
+    "category": "finance"
+  },
+  {
+    "name": "Корона, VIP",
+    "emoji": "👑",
+    "custom_emoji_id": "5807868868886009920",
+    "pack": "TgAndroidIcons",
+    "category": "finance"
+  },
+  {
+    "name": "Молния, скорость",
+    "emoji": "⚡️",
+    "custom_emoji_id": "5843553939672274145",
+    "pack": "TgAndroidIcons",
+    "category": "finance"
+  },
+  {
+    "name": "Огонь, популярное",
+    "emoji": "🔥",
+    "custom_emoji_id": "6008118472066732010",
+    "pack": "TgAndroidIcons",
+    "category": "finance"
+  },
+  {
+    "name": "Предупреждение",
+    "emoji": "⚠️",
+    "custom_emoji_id": "5881702736843511327",
+    "pack": "TgAndroidIcons",
+    "category": "status"
+  },
+  {
+    "name": "Запрет, блокировка",
+    "emoji": "⛔",
+    "custom_emoji_id": "5339233635620899144",
+    "pack": "vector_icons_by_fStikBot",
+    "category": "general"
+  },
+  {
+    "name": "Вопрос, поддержка",
+    "emoji": "❓",
+    "custom_emoji_id": "5873121512445187130",
+    "pack": "TgAndroidIcons",
+    "category": "status"
+  },
+  {
+    "name": "Сердце",
+    "emoji": "❤️",
+    "custom_emoji_id": "5992453811510186287",
+    "pack": "TgAndroidIcons",
+    "category": "general"
+  },
+  {
+    "name": "Сердце в огне",
+    "emoji": "❤️‍🔥",
+    "custom_emoji_id": "5449394813709327952",
+    "pack": "RestrictedEmoji",
+    "category": "animated"
+  },
+  {
+    "name": "Сто, топ",
+    "emoji": "💯",
+    "custom_emoji_id": "5222241728659988366",
+    "pack": "vector_icons_by_fStikBot",
+    "category": "general"
+  },
+  {
+    "name": "Наблюдение",
+    "emoji": "👀",
+    "custom_emoji_id": "5260341314095947411",
+    "pack": "tgmacicons",
+    "category": "general"
+  },
+  {
+    "name": "Приветствие, в строй",
+    "emoji": "🫡",
+    "custom_emoji_id": "5323772371830588991",
+    "pack": "RoboEmoji",
+    "category": "general"
+  },
+  {
+    "name": "Алмаз, токены",
+    "emoji": "💎",
+    "custom_emoji_id": "5807465992363710697",
+    "pack": "TgAndroidIcons",
+    "category": "finance"
+  },
+  {
+    "name": "Корзина, магазин",
+    "emoji": "🛒",
+    "custom_emoji_id": "5258024802010026053",
+    "pack": "vector_icons_by_fStikBot",
+    "category": "general"
+  },
+  {
+    "name": "Банковская карта",
+    "emoji": "💳",
+    "custom_emoji_id": "5967548335542767952",
+    "pack": "TgAndroidIcons",
+    "category": "finance"
+  },
+  {
+    "name": "График вниз",
+    "emoji": "📉",
+    "custom_emoji_id": "5246762912428603768",
+    "pack": "NewsEmoji",
+    "category": "documents"
+  },
+  {
+    "name": "Доллар",
+    "emoji": "💵",
+    "custom_emoji_id": "5409048419211682843",
+    "pack": "NewsEmoji",
+    "category": "finance"
+  },
+  {
+    "name": "Евро",
+    "emoji": "💸",
+    "custom_emoji_id": "5233326571099534068",
+    "pack": "NewsEmoji",
+    "category": "finance"
+  },
+  {
+    "name": "Рубль",
+    "emoji": "💸",
+    "custom_emoji_id": "5231449120635370684",
+    "pack": "NewsEmoji",
+    "category": "finance"
+  },
+  {
+    "name": "Процент",
+    "emoji": "🛍",
+    "custom_emoji_id": "5229064374403998351",
+    "pack": "NewsEmoji",
+    "category": "general"
+  },
+  {
+    "name": "Воспроизвести",
+    "emoji": "▶️",
+    "custom_emoji_id": "5264919878082509254",
+    "pack": "NewsEmoji",
+    "category": "general"
+  },
+  {
+    "name": "Пауза",
+    "emoji": "⏸",
+    "custom_emoji_id": "5359543311897998264",
+    "pack": "NewsEmoji",
+    "category": "general"
+  },
+  {
+    "name": "Музыка",
+    "emoji": "🎵",
+    "custom_emoji_id": "5891249688933305846",
+    "pack": "TgAndroidIcons",
+    "category": "media"
+  },
+  {
+    "name": "Камера",
+    "emoji": "📷",
+    "custom_emoji_id": "5778335621491723621",
+    "pack": "TgAndroidIcons",
+    "category": "general"
+  },
+  {
+    "name": "Чат",
+    "emoji": "💬",
+    "custom_emoji_id": "5793933761594789855",
+    "pack": "TgAndroidIcons",
+    "category": "media"
+  },
+  {
+    "name": "Письмо",
+    "emoji": "✉️",
+    "custom_emoji_id": "5985817223749439505",
+    "pack": "TgAndroidIcons",
+    "category": "general"
+  },
+  {
+    "name": "Звук выключен",
+    "emoji": "🔕",
+    "custom_emoji_id": "5909123362839335003",
+    "pack": "TgAndroidIcons",
+    "category": "media"
+  },
+  {
+    "name": "Идея",
+    "emoji": "💡",
+    "custom_emoji_id": "5258216851472654189",
+    "pack": "tgmacicons",
+    "category": "general"
+  },
+  {
+    "name": "Ключ, доступ",
+    "emoji": "🔑",
+    "custom_emoji_id": "6005570495603282482",
+    "pack": "TgAndroidIcons",
+    "category": "general"
+  },
+  {
+    "name": "Булавка, закрепить",
+    "emoji": "📌",
+    "custom_emoji_id": "5397782960512444700",
+    "pack": "NewsEmoji",
+    "category": "general"
+  },
+  {
+    "name": "Щит, защита",
+    "emoji": "🛡",
+    "custom_emoji_id": "5926783847453692661",
+    "pack": "TgAndroidIcons",
+    "category": "general"
+  },
+  {
+    "name": "Сохранить",
+    "emoji": "💾",
+    "custom_emoji_id": "5884448719889240368",
+    "pack": "TgAndroidIcons",
+    "category": "general"
+  },
+  {
+    "name": "Заметка",
+    "emoji": "🗒",
+    "custom_emoji_id": "5877597667231534929",
+    "pack": "TgAndroidIcons",
+    "category": "general"
+  },
+  {
+    "name": "Обновить",
+    "emoji": "🔄",
+    "custom_emoji_id": "5258420634785947640",
+    "pack": "tgmacicons",
+    "category": "status"
+  },
+  {
+    "name": "Добавить",
+    "emoji": "➕",
+    "custom_emoji_id": "5775937998948404844",
+    "pack": "TgAndroidIcons",
+    "category": "general"
+  },
+  {
+    "name": "Убрать",
+    "emoji": "➖",
+    "custom_emoji_id": "5229113891081956317",
+    "pack": "RestrictedEmoji",
+    "category": "animated"
+  },
+  {
+    "name": "Инструменты",
+    "emoji": "🛠",
+    "custom_emoji_id": "5988023995125993550",
+    "pack": "TgAndroidIcons",
+    "category": "tech"
+  },
+  {
+    "name": "Мозг, AI",
+    "emoji": "🧠",
+    "custom_emoji_id": "5314413943035278948",
+    "pack": "vector_icons_by_fStikBot",
+    "category": "general"
+  },
+  {
+    "name": "Запуск",
+    "emoji": "🚀",
+    "custom_emoji_id": "5445284980978621387",
+    "pack": "RestrictedEmoji",
+    "category": "animated"
+  },
+  {
+    "name": "Глобус, язык",
+    "emoji": "🌍",
+    "custom_emoji_id": "5399898266265475100",
+    "pack": "RestrictedEmoji",
+    "category": "animated"
+  },
+  {
+    "name": "Ожидание",
+    "emoji": "⏳",
+    "custom_emoji_id": "5451732530048802485",
+    "pack": "RestrictedEmoji",
+    "category": "animated"
+  },
+  {
+    "name": "Цель",
+    "emoji": "🎯",
+    "custom_emoji_id": "5350460637182993292",
+    "pack": "RestrictedEmoji",
+    "category": "animated"
+  },
+  {
+    "name": "Рукопожатие",
+    "emoji": "🤝",
+    "custom_emoji_id": "5357080225463149588",
+    "pack": "RestrictedEmoji",
+    "category": "animated"
+  },
+  {
+    "name": "Экран, ПК",
+    "emoji": "🖥",
+    "custom_emoji_id": "5282843764451195532",
+    "pack": "NewsEmoji",
+    "category": "general"
+  },
+  {
+    "name": "Телефон",
+    "emoji": "📱",
+    "custom_emoji_id": "5985833664884250583",
+    "pack": "TgAndroidIcons",
+    "category": "tech"
+  },
+  {
+    "name": "Палитра, тема",
+    "emoji": "🎨",
+    "custom_emoji_id": "5814690801665446789",
+    "pack": "TgAndroidIcons",
+    "category": "general"
+  },
+  {
+    "name": "Эксперимент",
+    "emoji": "🧪",
+    "custom_emoji_id": "5897607722295103204",
+    "pack": "TgAndroidIcons",
+    "category": "general"
+  },
+  {
+    "name": "Флаг",
+    "emoji": "🚩",
+    "custom_emoji_id": "5454310635707853545",
+    "pack": "vector_icons_by_fStikBot",
+    "category": "general"
+  }
+]
